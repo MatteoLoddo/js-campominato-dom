@@ -17,9 +17,15 @@
 
 }
 
-.bg-onclick{
+.bg-onclick-true{
     background-color: aqua;
 }
+
+.bg-bomb{
+    background-color: red;
+}
+
+
 
 :root{
     --cella-size: 50px
